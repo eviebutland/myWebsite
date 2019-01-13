@@ -6,6 +6,4 @@ added a change to the branch example
 updated locally and then remotely
 =======
 
-edit to file for the new branch update readme 
-tweaks to readme file
->>>>>>> update-readme
+updated made on master Github before rebase
